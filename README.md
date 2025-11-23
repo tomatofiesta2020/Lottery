@@ -1,4 +1,4 @@
-# Lottery ticket numbers generator die
+Lottery ticket numbers generator die
 
 How to use the die!?
 
